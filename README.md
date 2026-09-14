@@ -1,4 +1,4 @@
-Great! This second notebook is a **classification lab using Decision Trees** on a medical dataset called **`drug200.csv`**, which contains patient information and the type of drug prescribed to them.
+ **classification lab using Decision Trees** on a medical dataset called **`drug200.csv`**, which contains patient information and the type of drug prescribed to them.
 
 ---
 
